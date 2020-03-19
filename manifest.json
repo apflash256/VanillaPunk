@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "VanillaPunk",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "author": "Apflash256",
   "files": [
     {
@@ -105,13 +105,13 @@
       "required": true
     },
     {
-      "projectID": 224190,
-      "fileID": 2599318,
+      "projectID": 240630,
+      "fileID": 2728585,
       "required": true
     },
     {
-      "projectID": 240630,
-      "fileID": 2728585,
+      "projectID": 224190,
+      "fileID": 2599318,
       "required": true
     },
     {
@@ -245,8 +245,8 @@
       "required": true
     },
     {
-      "projectID": 283037,
-      "fileID": 2616330,
+      "projectID": 239197,
+      "fileID": 2838090,
       "required": true
     },
     {
@@ -255,8 +255,8 @@
       "required": true
     },
     {
-      "projectID": 239197,
-      "fileID": 2838090,
+      "projectID": 283037,
+      "fileID": 2616330,
       "required": true
     },
     {
